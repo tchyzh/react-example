@@ -1,7 +1,7 @@
 {
   "name": "Segment PoC for OpsBros",
   "version": "0.1.0",
-  "homepage": "https://tchyzh.github.io/react-example/",
+  "homepage": "https://tchyzh.github.io/segment-integration/",
   "private": true,
   "dependencies": {
     "@atlaskit/code": "^14.3.5",
